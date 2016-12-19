@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             //comment
             //time
             //another
+            System.Console.WriteLine("hiya");
         }
     }
 }
